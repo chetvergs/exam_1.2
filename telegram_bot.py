@@ -44,5 +44,5 @@ def parser(url):
 
     return channel_events
 
-parser
+
 bot.infinity_polling()
